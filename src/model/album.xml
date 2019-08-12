@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<albums>
+    <album albumID="0" name="Unknown Album" artistID="1" year="2012" score="5" gender="" />
+    <album albumID="1" name="The Beginning" artistID="2" year="2010" score="5" gender="" />
+    <album albumID="2" name="Nothing But The Beat" artistID="3" year="2011" score="4" gender="" />
+    <album albumID="3" name="The Rising Tied" artistID="4" year="2006" score="4" gender="" />
+    <album albumID="4" name="Age Of Ignorance" artistID="5" year="2008" score="3" gender="" />
+   
+</albums>

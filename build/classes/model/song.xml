@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+  <song name="The Time" albumID="1" artistID="2" number="1" gender="Electro" />
+  <song name="Don't Stop The Party" albumID="1" artistID="2" number="2" gender="Dance" />
+  <song name="Nothing Really Matters" albumID="2" artistID="3" number="1" gender="House" />
+  <song name="I Can Only Imagine" albumID="2" artistID="3" number="2" gender="Dance" />
+  <song name="Crank It Up" albumID="2" artistID="3" number="3" gender="Electro" />
+  <song name="Titanium" albumID="2" artistID="3" number="4" gender="House" />
+  <song name="Sweat" albumID="2" artistID="3" number="5" gender="Electro" />
+  <song name="Believe Me" albumID="3" artistID="4" number="1" gender="Alternative" />
+  <song name="Remember The Name" albumID="3" artistID="4" number="2" gender="Hip Hop" />
+  <song name="Where'd You Go" albumID="3" artistID="4" number="3" gender="Hip Hop" />
+  <song name="Fate" albumID="4" artistID="5" number="1" gender="Rock" />
+  <song name="Send Me to Hell" albumID="4" artistID="5" number="2" gender="Rock" />
+  <song name="Age of Ignorance" albumID="4" artistID="5" number="3" gender="Alternative" />
+  <song name="Reason to Love" albumID="4" artistID="5" number="4" gender="Alternative" />
+  <song name="Liberate Me" albumID="4" artistID="5" number="5" gender="Punk" />
+  <song name="Voices" albumID="4" artistID="5" number="6" gender="Alternative" />
+  <song name="Conspiracy" albumID="4" artistID="5" number="7" gender="Punk" />
+  <song name="Enemy" albumID="4" artistID="5" number="8" gender="Rock" />
+  <song name="Invincible" albumID="0" artistID="1" number="1" gender="Punk" />
+  <song name="A Sun That Never Sets" albumID="0" artistID="1" number="1" gender="Alternative" />
+  <song name="Closer" albumID="0" artistID="1" number="1" gender="Electro" />
+</songs>

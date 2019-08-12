@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+  <song name="Age of Ignorance" albumID="0" artistID="1" number="1" playlistID="1" gender="Alternative" />
+  <song name="Conspiracy" albumID="0" artistID="1" number="1" playlistID="1" gender="Punk" />
+  <song name="Where'd You Go" albumID="0" artistID="1" number="1" playlistID="1" gender="Hip Hop" />
+  <song name="Believe Me" albumID="0" artistID="1" number="1" playlistID="1" gender="Alternative" />
+  <song name="Crank It Up" albumID="0" artistID="1" number="1" playlistID="2" gender="Electro" />
+  <song name="Titanium" albumID="0" artistID="1" number="1" playlistID="2" gender="House" />
+</songs>

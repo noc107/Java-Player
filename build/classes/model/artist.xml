@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<artists>
+    <artist name="Unknown Artist" artistID="1"/>
+    <artist name="Black Eyed Peas" artistID="2"/>
+    <artist name="David Guetta" artistID="3"/>
+    <artist name="Fort Minor" artistID="4"/>
+    <artist name="Our Last Night" artistID="5"/>  
+</artists>
